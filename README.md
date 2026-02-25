@@ -280,4 +280,4 @@ We sincerely thank the authors of SpCQL for releasing the dataset and Neo4j data
 
 ## 12. Contact
 
-For questions or issues, please open an issue in this repository.
+For questions or issues, please open a GitHub Issue or contact: cuit.ldm66@gmail.com
